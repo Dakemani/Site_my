@@ -17,3 +17,4 @@ gantt
     Фронтенд-разработка  :frontend, after design, 10d
     Бэкенд-разработка    :backend, after prep, 12d
     Тестирование         :test, after frontend, after backend, 5d
+    ```
