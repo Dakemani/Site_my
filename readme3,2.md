@@ -94,7 +94,7 @@ erDiagram
         int followed_id FK
         PRIMARY KEY follower_id followed_id)
     }
-
+```
 ---
 
 ```mermaid
