@@ -15,7 +15,7 @@ touch "$project_name/index.html"
 touch "$project_name/css/style.css"
 touch "$project_name/js/script.js"
 
-# Заполняем базовым содержимым
+
 echo "<!DOCTYPE html>
 <html>
 <head>
